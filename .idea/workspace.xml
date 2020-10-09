@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b63d5e2-d7d1-4d04-a5a7-85b378041107" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+        <option value="Go Application" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.14.6/libexec" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1idia6FloMQHj3uJ9z3pnKUgIfX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build GitlabDownloader" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="GitlabDownloader" />
+      <working_directory value="$PROJECT_DIR$" />
+      <parameters value="-token=thdDGsJqCAhPx58zxM7q" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build GitlabDownloader" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="518" y="283" key="#Go_Modules" timestamp="1602248141449">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="518" y="283" key="#Go_Modules/0.0.1536.960@0.0.1536.960" timestamp="1602248141449" />
+    <state x="228" y="135" width="1079" height="719" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602251652193">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="228" y="135" width="1079" height="719" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.960@0.0.1536.960" timestamp="1602251652193" />
+    <state x="502" y="137" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1602251284942">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="502" y="137" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.960@0.0.1536.960" timestamp="1602251284942" />
+    <state width="1484" height="252" key="GridCell.Tab.0.bottom" timestamp="1602251443205">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1484" height="252" key="GridCell.Tab.0.bottom/0.0.1536.960@0.0.1536.960" timestamp="1602251443205" />
+    <state width="1484" height="252" key="GridCell.Tab.0.center" timestamp="1602251443204">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1484" height="252" key="GridCell.Tab.0.center/0.0.1536.960@0.0.1536.960" timestamp="1602251443204" />
+    <state width="1484" height="252" key="GridCell.Tab.0.left" timestamp="1602251443203">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1484" height="252" key="GridCell.Tab.0.left/0.0.1536.960@0.0.1536.960" timestamp="1602251443203" />
+    <state width="1484" height="252" key="GridCell.Tab.0.right" timestamp="1602251443205">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1484" height="252" key="GridCell.Tab.0.right/0.0.1536.960@0.0.1536.960" timestamp="1602251443205" />
+    <state width="625" height="500" key="SwitcherDM" timestamp="1602251099446">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="625" height="500" key="SwitcherDM/0.0.1536.960@0.0.1536.960" timestamp="1602251099446" />
+  </component>
+</project>
